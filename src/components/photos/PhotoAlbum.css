@@ -4,6 +4,7 @@
   width: 100rem;
   padding: 1rem;
   margin: auto;
+  background-color: black;
 
   h2 {
     padding: 1rem;
@@ -26,5 +27,6 @@
   img {
     width: auto;
     height: 100%;
+    border: 1px solid white;
   }
 }
