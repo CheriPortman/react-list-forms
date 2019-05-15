@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Photos Component renders photos 1`] = `
+<ul>
+  <li
+    key="src/assets/fanno-creek-fun.jpg"
+  >
+    <Photo
+      photo="src/assets/fanno-creek-fun.jpg"
+    />
+  </li>
+  <li
+    key="src/assets/dragon-hoard.jpg"
+  >
+    <Photo
+      photo="src/assets/dragon-hoard.jpg"
+    />
+  </li>
+  <li
+    key="src/assets/crater-lake-dan.jpg"
+  >
+    <Photo
+      photo="src/assets/crater-lake-dan.jpg"
+    />
+  </li>
+</ul>
+`;

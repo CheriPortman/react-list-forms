@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders the app 1`] = `
+<Fragment>
+  <Header />
+  <PhotoAlbum
+    photos={
+      Array [
+        "/path/image",
+        "/path/image",
+        "/path/image",
+        "/path/image",
+        "/path/image",
+        "/path/image",
+      ]
+    }
+    title="Cheri's Album"
+  />
+  <Footer />
+</Fragment>
+`;

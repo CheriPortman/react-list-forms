@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Photo Album Componenet renders a photo album! 1`] = `
+<section
+  className="PhotoAlbum"
+>
+  <h2>
+    My Photos
+  </h2>
+  <Photos
+    photos={
+      Array [
+        "/fake",
+        "/fayke",
+      ]
+    }
+  />
+</section>
+`;
