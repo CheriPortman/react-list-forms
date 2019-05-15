@@ -1,5 +1,5 @@
 import React from 'react';
-import Photos from './photos/Photos';
+import PhotoAlbum from './photos/PhotoAlbum';
 
 import threeLoves from '../assets/three-loves.jpg';
 import stitch from '../assets/stitch-on-blue.jpg';
@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <>
-      <Photos photos={photos}/>
+      <PhotoAlbum photos={photos}/>
     </>
   );
 }
