@@ -1,0 +1,18 @@
+.Sidebar {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  width: 33vw;
+  height: 100vh;
+  padding: 1rem;
+  background-color: rgb(153, 105, 16);
+  color: rgb(75, 6, 75);
+  text-align: center;
+
+  a {
+    display: block;
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;
+  }
+}
